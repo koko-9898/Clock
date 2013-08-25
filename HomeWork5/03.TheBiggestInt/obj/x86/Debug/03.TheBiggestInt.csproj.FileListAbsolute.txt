@@ -1,0 +1,5 @@
+C:\Documents and Settings\Koko\my documents\visual studio 2010\Projects\HomeWork5\03.TheBiggestInt\bin\Debug\03.TheBiggestInt.exe
+C:\Documents and Settings\Koko\my documents\visual studio 2010\Projects\HomeWork5\03.TheBiggestInt\bin\Debug\03.TheBiggestInt.pdb
+C:\Documents and Settings\Koko\my documents\visual studio 2010\Projects\HomeWork5\03.TheBiggestInt\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Koko\my documents\visual studio 2010\Projects\HomeWork5\03.TheBiggestInt\obj\x86\Debug\03.TheBiggestInt.exe
+C:\Documents and Settings\Koko\my documents\visual studio 2010\Projects\HomeWork5\03.TheBiggestInt\obj\x86\Debug\03.TheBiggestInt.pdb

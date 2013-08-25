@@ -1,0 +1,5 @@
+C:\Documents and Settings\Koko\my documents\visual studio 2010\Projects\HomeWork5\04.DescendingValues\bin\Debug\04.DescendingValues.exe
+C:\Documents and Settings\Koko\my documents\visual studio 2010\Projects\HomeWork5\04.DescendingValues\bin\Debug\04.DescendingValues.pdb
+C:\Documents and Settings\Koko\my documents\visual studio 2010\Projects\HomeWork5\04.DescendingValues\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Koko\my documents\visual studio 2010\Projects\HomeWork5\04.DescendingValues\obj\x86\Debug\04.DescendingValues.exe
+C:\Documents and Settings\Koko\my documents\visual studio 2010\Projects\HomeWork5\04.DescendingValues\obj\x86\Debug\04.DescendingValues.pdb

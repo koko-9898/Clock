@@ -1,0 +1,5 @@
+C:\Documents and Settings\Koko\my documents\visual studio 2010\Projects\HomeWork5\07.TheGreatestVar\bin\Debug\07.TheGreatestVar.exe
+C:\Documents and Settings\Koko\my documents\visual studio 2010\Projects\HomeWork5\07.TheGreatestVar\bin\Debug\07.TheGreatestVar.pdb
+C:\Documents and Settings\Koko\my documents\visual studio 2010\Projects\HomeWork5\07.TheGreatestVar\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Koko\my documents\visual studio 2010\Projects\HomeWork5\07.TheGreatestVar\obj\x86\Debug\07.TheGreatestVar.exe
+C:\Documents and Settings\Koko\my documents\visual studio 2010\Projects\HomeWork5\07.TheGreatestVar\obj\x86\Debug\07.TheGreatestVar.pdb

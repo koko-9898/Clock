@@ -1,0 +1,5 @@
+C:\Documents and Settings\Koko\my documents\visual studio 2010\Projects\HomeWork5\10.BonusScores\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Koko\my documents\visual studio 2010\Projects\HomeWork5\10.BonusScores\bin\Debug\10.BonusScores.exe
+C:\Documents and Settings\Koko\my documents\visual studio 2010\Projects\HomeWork5\10.BonusScores\bin\Debug\10.BonusScores.pdb
+C:\Documents and Settings\Koko\my documents\visual studio 2010\Projects\HomeWork5\10.BonusScores\obj\x86\Debug\10.BonusScores.exe
+C:\Documents and Settings\Koko\my documents\visual studio 2010\Projects\HomeWork5\10.BonusScores\obj\x86\Debug\10.BonusScores.pdb

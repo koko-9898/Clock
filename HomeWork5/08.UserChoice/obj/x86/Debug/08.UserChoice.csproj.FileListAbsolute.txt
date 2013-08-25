@@ -1,0 +1,5 @@
+C:\Documents and Settings\Koko\my documents\visual studio 2010\Projects\HomeWork5\08.UserChoice\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Koko\my documents\visual studio 2010\Projects\HomeWork5\08.UserChoice\bin\Debug\08.UserChoice.exe
+C:\Documents and Settings\Koko\my documents\visual studio 2010\Projects\HomeWork5\08.UserChoice\bin\Debug\08.UserChoice.pdb
+C:\Documents and Settings\Koko\my documents\visual studio 2010\Projects\HomeWork5\08.UserChoice\obj\x86\Debug\08.UserChoice.exe
+C:\Documents and Settings\Koko\my documents\visual studio 2010\Projects\HomeWork5\08.UserChoice\obj\x86\Debug\08.UserChoice.pdb

@@ -1,0 +1,5 @@
+C:\Documents and Settings\Koko\my documents\visual studio 2010\Projects\HomeWork5\09.SumOfSubset\bin\Debug\09.SumOfSubset.exe
+C:\Documents and Settings\Koko\my documents\visual studio 2010\Projects\HomeWork5\09.SumOfSubset\bin\Debug\09.SumOfSubset.pdb
+C:\Documents and Settings\Koko\my documents\visual studio 2010\Projects\HomeWork5\09.SumOfSubset\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Koko\my documents\visual studio 2010\Projects\HomeWork5\09.SumOfSubset\obj\x86\Debug\09.SumOfSubset.exe
+C:\Documents and Settings\Koko\my documents\visual studio 2010\Projects\HomeWork5\09.SumOfSubset\obj\x86\Debug\09.SumOfSubset.pdb

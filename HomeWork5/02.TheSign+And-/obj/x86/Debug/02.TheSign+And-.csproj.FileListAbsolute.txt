@@ -1,0 +1,5 @@
+c:\documents and settings\koko\my documents\visual studio 2010\Projects\HomeWork5\02.TheSign+And-\bin\Debug\02.TheSign+And-.exe
+c:\documents and settings\koko\my documents\visual studio 2010\Projects\HomeWork5\02.TheSign+And-\bin\Debug\02.TheSign+And-.pdb
+c:\documents and settings\koko\my documents\visual studio 2010\Projects\HomeWork5\02.TheSign+And-\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\koko\my documents\visual studio 2010\Projects\HomeWork5\02.TheSign+And-\obj\x86\Debug\02.TheSign+And-.exe
+c:\documents and settings\koko\my documents\visual studio 2010\Projects\HomeWork5\02.TheSign+And-\obj\x86\Debug\02.TheSign+And-.pdb

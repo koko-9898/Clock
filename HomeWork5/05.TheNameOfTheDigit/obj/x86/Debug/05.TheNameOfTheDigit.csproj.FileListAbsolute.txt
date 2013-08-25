@@ -1,0 +1,5 @@
+C:\Documents and Settings\Koko\my documents\visual studio 2010\Projects\HomeWork5\05.TheNameOfTheDigit\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Koko\my documents\visual studio 2010\Projects\HomeWork5\05.TheNameOfTheDigit\bin\Debug\05.TheNameOfTheDigit.exe
+C:\Documents and Settings\Koko\my documents\visual studio 2010\Projects\HomeWork5\05.TheNameOfTheDigit\bin\Debug\05.TheNameOfTheDigit.pdb
+C:\Documents and Settings\Koko\my documents\visual studio 2010\Projects\HomeWork5\05.TheNameOfTheDigit\obj\x86\Debug\05.TheNameOfTheDigit.exe
+C:\Documents and Settings\Koko\my documents\visual studio 2010\Projects\HomeWork5\05.TheNameOfTheDigit\obj\x86\Debug\05.TheNameOfTheDigit.pdb
