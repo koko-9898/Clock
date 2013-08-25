@@ -1,0 +1,5 @@
+c:\documents and settings\koko\my documents\visual studio 2010\Projects\Multidimensional Arrays\05.ArrayOfStrings\bin\Debug\05.ArrayOfStrings.exe
+c:\documents and settings\koko\my documents\visual studio 2010\Projects\Multidimensional Arrays\05.ArrayOfStrings\bin\Debug\05.ArrayOfStrings.pdb
+c:\documents and settings\koko\my documents\visual studio 2010\Projects\Multidimensional Arrays\05.ArrayOfStrings\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\koko\my documents\visual studio 2010\Projects\Multidimensional Arrays\05.ArrayOfStrings\obj\x86\Debug\05.ArrayOfStrings.exe
+c:\documents and settings\koko\my documents\visual studio 2010\Projects\Multidimensional Arrays\05.ArrayOfStrings\obj\x86\Debug\05.ArrayOfStrings.pdb

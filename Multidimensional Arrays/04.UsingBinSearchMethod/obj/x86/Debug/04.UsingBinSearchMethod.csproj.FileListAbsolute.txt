@@ -1,0 +1,5 @@
+c:\documents and settings\koko\my documents\visual studio 2010\Projects\Multidimensional Arrays\04.UsingBinSearchMethod\bin\Debug\04.UsingBinSearchMethod.exe
+c:\documents and settings\koko\my documents\visual studio 2010\Projects\Multidimensional Arrays\04.UsingBinSearchMethod\bin\Debug\04.UsingBinSearchMethod.pdb
+c:\documents and settings\koko\my documents\visual studio 2010\Projects\Multidimensional Arrays\04.UsingBinSearchMethod\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\koko\my documents\visual studio 2010\Projects\Multidimensional Arrays\04.UsingBinSearchMethod\obj\x86\Debug\04.UsingBinSearchMethod.exe
+c:\documents and settings\koko\my documents\visual studio 2010\Projects\Multidimensional Arrays\04.UsingBinSearchMethod\obj\x86\Debug\04.UsingBinSearchMethod.pdb

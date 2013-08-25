@@ -1,0 +1,5 @@
+C:\Documents and Settings\Koko\My Documents\Visual Studio 2010\Projects\Multidimensional Arrays\02.RectangularMatrix\bin\Debug\02.RectangularMatrix.exe
+C:\Documents and Settings\Koko\My Documents\Visual Studio 2010\Projects\Multidimensional Arrays\02.RectangularMatrix\bin\Debug\02.RectangularMatrix.pdb
+C:\Documents and Settings\Koko\My Documents\Visual Studio 2010\Projects\Multidimensional Arrays\02.RectangularMatrix\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Koko\My Documents\Visual Studio 2010\Projects\Multidimensional Arrays\02.RectangularMatrix\obj\x86\Debug\02.RectangularMatrix.exe
+C:\Documents and Settings\Koko\My Documents\Visual Studio 2010\Projects\Multidimensional Arrays\02.RectangularMatrix\obj\x86\Debug\02.RectangularMatrix.pdb
