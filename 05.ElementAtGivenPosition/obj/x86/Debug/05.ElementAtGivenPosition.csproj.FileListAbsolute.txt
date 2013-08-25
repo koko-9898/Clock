@@ -1,0 +1,5 @@
+C:\Documents and Settings\Koko\my documents\visual studio 2010\Projects\Methods\05.ElementAtGivenPosition\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Koko\my documents\visual studio 2010\Projects\Methods\05.ElementAtGivenPosition\bin\Debug\05.ElementAtGivenPosition.exe
+C:\Documents and Settings\Koko\my documents\visual studio 2010\Projects\Methods\05.ElementAtGivenPosition\bin\Debug\05.ElementAtGivenPosition.pdb
+C:\Documents and Settings\Koko\my documents\visual studio 2010\Projects\Methods\05.ElementAtGivenPosition\obj\x86\Debug\05.ElementAtGivenPosition.exe
+C:\Documents and Settings\Koko\my documents\visual studio 2010\Projects\Methods\05.ElementAtGivenPosition\obj\x86\Debug\05.ElementAtGivenPosition.pdb
